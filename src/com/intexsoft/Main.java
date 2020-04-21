@@ -3,7 +3,7 @@ package com.intexsoft;
 public class Main {
 
     public static void main(String[] args) {
-        String text = "it is itis";
+        String text = "00122222223334444";
 
         // для простоты допустим, что количество символов не превосходит 256
         int[] charFrequencies = new int[256];
